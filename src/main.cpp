@@ -18,7 +18,7 @@ const int RED_PIN = 9;
 const int GREEN_PIN = 10;
 
 // TODO 3:
-// Define BLUE pin (Use 11)
+// Define BLUE pin(Use 11)
 const int BLUE_PIN = 11;
 
 void setup() {
