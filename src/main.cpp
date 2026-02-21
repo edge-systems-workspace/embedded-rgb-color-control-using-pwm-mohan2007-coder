@@ -10,7 +10,7 @@
  */
 
 // TODO 1:
-// Define RED pin (Use 9)
+// Define RED pin(Use 9)
 const int RED_PIN = 9;
 
 // TODO 2:
